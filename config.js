@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://linsheng-space.netlify.app',
   pathPrefix: '/',
   title: '轟天 Space',
-  // subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: '心得分享、技術交流，歡迎大家來坐坐~',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
