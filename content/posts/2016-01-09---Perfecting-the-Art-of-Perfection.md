@@ -1,25 +1,24 @@
 ---
 template: post
-title: Perfecting the Art of Perfectionxxx
-slug: perfecting-the-art-of-perfection
-socialImage: /media/image-2.jpg
+title: 序篇
+slug: introduction
+socialImage: /media/pexels-christina-morillo-1181216.jpg
 draft: false
-date: 2016-09-01T23:46:37.121Z
-description: Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem,
-  at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus
-  orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui.
-  Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue
-  elementum.
-category: Design Inspiration
+date: 2021-07-08T17:47:33.086Z
+description: |
+  這是這個部落個的第一篇文章，我嘗試使用 Gatsby + Netify CMS 架起這個部落格，之後陸續會做一些修改，以及會放一些技術學習上的心得。
+category: 日常
 tags:
-  - Handwriting
-  - Learning to write
+  - 日常
 ---
+這是這個部落個的第一篇文章，我嘗試使用 Gatsby + Netify CMS 架起這個部落格，之後陸續會做一些修改，以及會放一些技術學習上的心得。
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+![](/media/pexels-christina-morillo-1181216.jpg)
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+目前也只是走在軟體開發路上的一個小菜鳥，因此這些文章的軌跡，代表我的心路歷程，以及學習的紀錄，因此之後文章新增主要會有幾個大方向:
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+* Nodejs 相關
+* React 相關
+* Server端相關技術
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+( To be continue... )
