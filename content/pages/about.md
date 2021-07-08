@@ -1,6 +1,6 @@
 ---
 template: page
-title: 關於我 [轟天旅人]
+title: 關於我
 slug: about-me
 socialImage: /media/25867354.jpg
 draft: false
