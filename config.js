@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://linsheng-space.netlify.app',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: '轟天 Space',
+  // subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,32 +12,32 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: '文章',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: '關於我',
+      path: '/pages/about-me'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: '簡歷',
+      path: '/pages/profile'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: '轟天旅人',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '心得分享、技術交流，歡迎大家來坐坐~',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'linsheng24@gmail.com',
+      facebook: 'https://www.facebook.com/profile.php?id=100000229728195',
+      telegram: '',
+      twitter: '',
+      github: 'https://github.com/linsheng24',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: 'https://www.instagram.com/linsheng24/',
       line: '',
       gitlab: '',
       weibo: '',
