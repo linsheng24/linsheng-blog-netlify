@@ -11,7 +11,7 @@ category: 日常
 tags:
   - 日常
 ---
-這是這個部落個的第一篇文章，我嘗試使用 Gatsby + Netify CMS 架起這個部落格，之後陸續會做一些修改，以及會放一些技術學習上的心得。
+這是這個部落個的第一篇文章，我嘗試使用 Gatsby + Netify CMS 架起這個部落格，之後陸續會做一些修改，以及會放一些技術學習上的心得分享。
 
 ![](/media/pexels-christina-morillo-1181216.jpg)
 
