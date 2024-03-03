@@ -3,12 +3,12 @@
 module.exports = {
   url: 'https://linsheng-space.netlify.app',
   pathPrefix: '/',
-  title: '轟天 Space',
-  subtitle: '心得分享、技術交流，歡迎大家來坐坐~',
+  title: '鯨魚爸爸 Coding Space',
+  subtitle: '心得分享、技術交流，歡迎大家',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: '轟天旅人',
+    name: '鯨魚爸爸',
     photo: '/photo.jpg',
     bio: '心得分享、技術交流，歡迎大家來坐坐~',
     contacts: {
       email: 'linsheng24@gmail.com',
-      facebook: '100000229728195',
+      facebook: '',
       telegram: '',
       twitter: '',
       github: 'linsheng24',
       rss: '',
       vkontakte: '',
-      linkedin: '',
-      instagram: 'linsheng24',
+      linkedin: 'sheng-lin-833745218',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
