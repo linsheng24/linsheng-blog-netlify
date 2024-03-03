@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://linsheng-space.netlify.app',
+  url: 'https://whale-coding-space.netlify.app',
   pathPrefix: '/',
   title: '鯨魚爸爸 Coding Space',
   subtitle: '心得分享、技術交流，歡迎大家',
